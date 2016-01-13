@@ -11,3 +11,9 @@ alert('Your answer is '+ question2);
 var question3 = prompt('Do I like the Raining Seattle Weather?');
 console.log('The answer is'+ question3);
 alert('Your answer is '+ question3);
+
+
+
+
+
+
